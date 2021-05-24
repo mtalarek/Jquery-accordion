@@ -1,0 +1,7 @@
+li {
+    list-style-type: "+ ";
+}
+
+li.minus {
+    list-style-type: "- ";
+}
